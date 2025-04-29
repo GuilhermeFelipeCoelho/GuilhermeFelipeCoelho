@@ -5,7 +5,7 @@
 </h5>
 
 <p align="center">
-  <b>🖥️ Data Science student - UNIVESP</b>
+  <b>🖥️ Computer Engineering student - UNIVESP</b>
 </p>
 <p align="center">
   :eyes: Looking for backend Java and Springboot opportunities
