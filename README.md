@@ -8,6 +8,10 @@
   <b>🖥️ Computer Engineering student - UNIVESP</b>
 </p>
 <p align="center">
+  <b>📖 My resume! -> https://guilhermefelipecoelho.github.io/curriculumHTML/</b>
+</p>
+
+<p align="center">
   :eyes: Looking for backend Java and Springboot opportunities
 </p>
 <p align="center">
