@@ -24,9 +24,6 @@
   </a>
 </p>
 <br>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guipeee&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
-</p>
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Guipeee/Guipeee/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
